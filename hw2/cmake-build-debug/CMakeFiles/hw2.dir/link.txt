@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/hw2.dir/main.cpp.o CMakeFiles/hw2.dir/figure.cpp.o CMakeFiles/hw2.dir/circle.cpp.o CMakeFiles/hw2.dir/rectangle.cpp.o CMakeFiles/hw2.dir/triangle.cpp.o CMakeFiles/hw2.dir/container.cpp.o -o hw2 

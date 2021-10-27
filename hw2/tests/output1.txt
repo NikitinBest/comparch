@@ -1,0 +1,11 @@
+Container includes 3 objects:
+Type: Circle;    Color: RED   ; Area: 78.539816; Coordinates of center: 1 -1; Radius : 5;
+Type: Rectangle; Color: GREEN ; Area: 32.000000; Coordinates of left-top point: -5 3; Coordinates of right-bottom point: 3 -1;
+Type: Triangle;  Color: PURPLE; Area: 4.500000; Coordinates of first point: 1 -1; Coordinates of second point: 2 2; Coordinates of third point: 3 -4;
+-------------------------------------------
+Container Sorted!
+-------------------------------------------
+Container includes 3 objects:
+Type: Triangle;  Color: PURPLE; Area: 4.500000; Coordinates of first point: 1 -1; Coordinates of second point: 2 2; Coordinates of third point: 3 -4;
+Type: Rectangle; Color: GREEN ; Area: 32.000000; Coordinates of left-top point: -5 3; Coordinates of right-bottom point: 3 -1;
+Type: Circle;    Color: RED   ; Area: 78.539816; Coordinates of center: 1 -1; Radius : 5;

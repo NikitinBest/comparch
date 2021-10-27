@@ -1,0 +1,25 @@
+Container includes 10 objects:
+Type: Triangle;  Color: INDIGO; Area: 52388097.000000; Coordinates of first point: -8271 -8687; Coordinates of second point: -4143 6124; Coordinates of third point: 3895 9582;
+Type: Circle;    Color: GREEN ; Area: 416248.459754; Coordinates of center: 3367 5434; Radius : 364;
+Type: Circle;    Color: RED   ; Area: 166316467.811306; Coordinates of center: 1087 -3192; Radius : 7276;
+Type: Triangle;  Color: BLUE  ; Area: 75067311.000000; Coordinates of first point: 3584 -4597; Coordinates of second point: -7349 2754; Coordinates of third point: 2399 9932;
+Type: Circle;    Color: INDIGO; Area: 452.389342; Coordinates of center: 3368 -2261; Radius : 12;
+Type: Rectangle; Color: PURPLE; Area: 123856731.000000; Coordinates of left-top point: -9205 7539; Coordinates of right-bottom point: -1906 -9430;
+Type: Triangle;  Color: RED   ; Area: 1263760.000000; Coordinates of first point: 7467 -3399; Coordinates of second point: 97 2902; Coordinates of third point: 3317 492;
+Type: Rectangle; Color: ORANGE; Area: 119230415.000000; Coordinates of left-top point: -5714 -559; Coordinates of right-bottom point: 7301 -9720;
+Type: Circle;    Color: PURPLE; Area: 223786954.193040; Coordinates of center: -1556 -3381; Radius : 8440;
+Type: Circle;    Color: GREEN ; Area: 104628987.057959; Coordinates of center: -1883 8097; Radius : 5771;
+-------------------------------------------
+Container Sorted!
+-------------------------------------------
+Container includes 10 objects:
+Type: Circle;    Color: INDIGO; Area: 452.389342; Coordinates of center: 3368 -2261; Radius : 12;
+Type: Circle;    Color: GREEN ; Area: 416248.459754; Coordinates of center: 3367 5434; Radius : 364;
+Type: Triangle;  Color: RED   ; Area: 1263760.000000; Coordinates of first point: 7467 -3399; Coordinates of second point: 97 2902; Coordinates of third point: 3317 492;
+Type: Triangle;  Color: INDIGO; Area: 52388097.000000; Coordinates of first point: -8271 -8687; Coordinates of second point: -4143 6124; Coordinates of third point: 3895 9582;
+Type: Triangle;  Color: BLUE  ; Area: 75067311.000000; Coordinates of first point: 3584 -4597; Coordinates of second point: -7349 2754; Coordinates of third point: 2399 9932;
+Type: Circle;    Color: GREEN ; Area: 104628987.057959; Coordinates of center: -1883 8097; Radius : 5771;
+Type: Rectangle; Color: ORANGE; Area: 119230415.000000; Coordinates of left-top point: -5714 -559; Coordinates of right-bottom point: 7301 -9720;
+Type: Rectangle; Color: PURPLE; Area: 123856731.000000; Coordinates of left-top point: -9205 7539; Coordinates of right-bottom point: -1906 -9430;
+Type: Circle;    Color: RED   ; Area: 166316467.811306; Coordinates of center: 1087 -3192; Radius : 7276;
+Type: Circle;    Color: PURPLE; Area: 223786954.193040; Coordinates of center: -1556 -3381; Radius : 8440;
