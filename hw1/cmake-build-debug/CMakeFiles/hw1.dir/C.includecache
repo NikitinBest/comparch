@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nbst/CLionProjects/comparch/hw1/circle.c
+circle.h
+/home/nbst/CLionProjects/comparch/hw1/circle.h
+
+/home/nbst/CLionProjects/comparch/hw1/circle.h
+stdio.h
+-
+point.h
+/home/nbst/CLionProjects/comparch/hw1/point.h
+
+/home/nbst/CLionProjects/comparch/hw1/point.h
+
+/home/nbst/CLionProjects/comparch/hw1/rectangle.c
+stdlib.h
+-
+rectangle.h
+/home/nbst/CLionProjects/comparch/hw1/rectangle.h
+
+/home/nbst/CLionProjects/comparch/hw1/rectangle.h
+stdio.h
+-
+point.h
+/home/nbst/CLionProjects/comparch/hw1/point.h
+
+/home/nbst/CLionProjects/comparch/hw1/triangle.c
+triangle.h
+/home/nbst/CLionProjects/comparch/hw1/triangle.h
+math.h
+-
+
+/home/nbst/CLionProjects/comparch/hw1/triangle.h
+stdio.h
+-
+point.h
+/home/nbst/CLionProjects/comparch/hw1/point.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/hw1.dir/main.c.o CMakeFiles/hw1.dir/figure.c.o CMakeFiles/hw1.dir/circle.c.o CMakeFiles/hw1.dir/rectangle.c.o CMakeFiles/hw1.dir/triangle.c.o CMakeFiles/hw1.dir/container.c.o -o hw1 
